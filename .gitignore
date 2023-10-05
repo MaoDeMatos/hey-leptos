@@ -1,3 +1,11 @@
+# build dirs
 /target
 /dist
+/build
+/style/dist
 
+# JS
+node_modules
+
+# Editor
+.vscode
